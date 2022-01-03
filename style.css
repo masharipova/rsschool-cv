@@ -19,13 +19,42 @@ main>.container{
     margin: auto;
     padding: 0;
 }
-header>.container{
-    text-align: center;
+header>.container>.section-1{
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items:center;
 }
 
 h1{
     color: hotpink;
+    padding: 0 20px;
 }
+
+.photo{
+    height: 200px;
+}
+
+header>.container>nav>ul{
+    margin: 0; 
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    align-items: baseline;
+}
+
+header>.container>nav{
+    background-color: cadetblue;
+}
+
+header>.container>nav>ul>li{
+    padding: 20px 0;
+    
+}
+
+
+
+
 footer{
     background-color: cadetblue;
     display: table;
