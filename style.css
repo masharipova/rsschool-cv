@@ -1,6 +1,6 @@
 @font-face {
-    font-family: "Kharkiv";
-    src: url("/img/Kharkiv.ttf") format("truetype");
+    font-family: 'Kharkiv';
+    src: url("../rsschool-cv/img/kharkiv.ttf");
     font-style: normal;
     font-weight: normal;
 }
