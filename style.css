@@ -1,7 +1,7 @@
 @font-face {
     font-family: 'Kharkiv';
-    src: url("/img/Kharkiv.ttf") format('truetype'),
-        url("/img/Kharkiv.woff2") format('woff');
+    src: url("/fonts/Kharkiv.ttf") format('truetype'),
+        url("/fonts/Kharkiv.woff2") format('woff');
     font-display: swap;
     font-style: normal;
 }
